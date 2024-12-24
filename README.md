@@ -32,3 +32,5 @@ Here's a breakdown of the steps:
     * Displays a sample image from the test set.
     * Predicts the class of the sample image.
 In essence, this code creates a neural network to recognize handwritten digits, trains it on a dataset of such digits, and then evaluates its performance on unseen data.
+GOOGLE COLAB LINK!!
+https://colab.research.google.com/drive/1eVbeoEMM8PhycRqcRwv6LUY5j3ntc2-Y
